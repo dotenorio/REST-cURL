@@ -13,6 +13,6 @@ Exemplo
   $url = "http://dotenorio.com";
 
   $restCurl = new RestCurl();
-  return $restCurl->GET($url);
+  echo $restCurl->GET($url);
 ?>
 ```
