@@ -1,5 +1,5 @@
-REST cURL
-=========
+REST cURL for PHP
+=================
 
 Classe para requisições REST utilizando cURL
 
